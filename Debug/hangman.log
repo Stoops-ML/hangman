@@ -1,0 +1,8 @@
+﻿  cHangman.cpp
+\\iai.co.il\edg\Users\ds89114\my_documents\Projects\C++\hangman\hangman\cHangman.cpp(107,20): warning C4018: '<': signed/unsigned mismatch
+  cPlayer.cpp
+  main.cpp
+  Generating Code...
+\\iai.co.il\edg\Users\ds89114\my_documents\Projects\C++\hangman\hangman\cHangman.cpp(139,20): warning C4018: '<': signed/unsigned mismatch
+\\iai.co.il\edg\Users\ds89114\my_documents\Projects\C++\hangman\hangman\main.cpp(33): warning C4715: 'chooseGuesser': not all control paths return a value
+  hangman.vcxproj -> \\iai.co.il\edg\Users\ds89114\my_documents\Projects\C++\hangman\Debug\hangman.exe
